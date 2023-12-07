@@ -29,7 +29,7 @@
 4. В окне скрипта вводим lib_count.countLength()
 
 Идентификатор: 
-AKfycbxEa3_L0bZrM-pbtIIezDU8GbqvsCP4uexDOXKWJGYRJ55J10-qN7SVddZrE1qluYc
+1-Grs83UpwrYc6GHtTk5zd7Aggt_uUBkMa2cqW1m4Ac0MoMF66CRm14nM
 
 Библиотека:
 https://script.google.com/macros/library/d/1-Grs83UpwrYc6GHtTk5zd7Aggt_uUBkMa2cqW1m4Ac0MoMF66CRm14nM/2
@@ -39,3 +39,4 @@ https://script.google.com/macros/library/d/1-Grs83UpwrYc6GHtTk5zd7Aggt_uUBkMa2cq
 1. Создаём Google таблицу
 2. Расширения - Apps Script
 3. Копируем содержимое файла script.js в окно редактора
+4. Выберите функцию – countLength
