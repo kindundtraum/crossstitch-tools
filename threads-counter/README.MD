@@ -2,9 +2,10 @@
 
 ## Основные задачи
 
-1. Помогает в подсчёте ниток (должен быть аналогом макроса Excel)
+1. Помогает в подсчёте ниток (аналог макроса Excel)
 2. Подсвечивает те нити, которые есть только в блендах
 3. Считает сколько мотков мулине нужно для схемы (1 моток == 8м)
+4. Умеет обрабатывать бленды, в которых больше 2 номеров мулине
 
 ## Использование
 
@@ -28,7 +29,10 @@
 4. В окне скрипта вводим lib_count.countLength()
 
 Идентификатор: 
-1-Grs83UpwrYc6GHtTk5zd7Aggt_uUBkMa2cqW1m4Ac0MoMF66CRm14nM
+AKfycbxEa3_L0bZrM-pbtIIezDU8GbqvsCP4uexDOXKWJGYRJ55J10-qN7SVddZrE1qluYc
+
+Библиотека:
+https://script.google.com/macros/library/d/1-Grs83UpwrYc6GHtTk5zd7Aggt_uUBkMa2cqW1m4Ac0MoMF66CRm14nM/2
 
 ### С нуля
 
