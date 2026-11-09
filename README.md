@@ -6,4 +6,4 @@
 
 [Скрипт для подсчёта расхода нитей](threads-counter/README.MD)
 
-[Скрипт для генерации 3D-моделей заготовок](3s-form-generator/README.MD)
+[Скрипт для генерации 3D-моделей заготовок](3d-form-generator/README.MD)
